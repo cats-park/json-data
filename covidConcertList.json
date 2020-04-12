@@ -3,23 +3,23 @@
         "no": 1,
         "name": "浦島坂船 Spring Tour2020",
         "location": "群馬",
-        "bDay": 20200229,
-        "aDay": 20200509,
+        "bDay": "20200229",
+        "aDay": "20200509",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
     {
         "no": 2,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "宮城",
-        "bDay": 20200301,
-        "aDay": 20200502,
+        "bDay": "20200301",
+        "aDay": "20200502",
         "artist": "luz"
     },
     {
         "no": 3,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "東京",
-        "bDay": 20200307,
+        "bDay": "20200307",
         "aDay": "中止",
         "artist": "luz"
     },
@@ -27,7 +27,7 @@
         "no": 4,
         "name": "浦島坂船 Spring Tour2020",
         "location": "大阪",
-        "bDay": 20200307,
+        "bDay": "20200307",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -35,63 +35,63 @@
         "no": 5,
         "name": "浦島坂船 Spring Tour2020",
         "location": "大阪",
-        "bDay": 20200308,
-        "aDay": 20200511,
+        "bDay": "20200308",
+        "aDay": "20200511",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
     {
         "no": 6,
         "name": "luz MEMBERS MEETING Vol.4",
         "location": "東京",
-        "bDay": 20200314,
-        "aDay": 20200429,
+        "bDay": "20200314",
+        "aDay": "20200429",
         "artist": "luz"
     },
     {
         "no": 7,
         "name": "浦島坂船 Spring Tour2020",
         "location": "岩手",
-        "bDay": 20200314,
-        "aDay": 20200514,
+        "bDay": "20200314",
+        "aDay": "20200514",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
     {
         "no": 8,
         "name": "浦島坂船 Spring Tour2020",
         "location": "青森",
-        "bDay": 20200315,
-        "aDay": 20200516,
+        "bDay": "20200315",
+        "aDay": "20200516",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
     {
         "no": 9,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "広島",
-        "bDay": 20200320,
-        "aDay": 20200514,
+        "bDay": "20200320",
+        "aDay": "20200514",
         "artist": "luz"
     },
     {
         "no": 10,
         "name": "浦島坂船 Spring Tour2020",
         "location": "愛知",
-        "bDay": 20200320,
-        "aDay": 20200612,
+        "bDay": "20200320",
+        "aDay": "20200612",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
     {
         "no": 11,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "静岡",
-        "bDay": 20200322,
-        "aDay": 20200522,
+        "bDay": "20200322",
+        "aDay": "20200522",
         "artist": "luz、センラ"
     },
     {
         "no": 12,
         "name": "ひきこもりでもLIVEがしたい",
         "location": "東京",
-        "bDay": 20200325,
+        "bDay": "20200325",
         "aDay": "中止",
         "artist": "まふまふ"
     },
@@ -99,7 +99,7 @@
         "no": 13,
         "name": "ひきこもりでもフェスがしたい",
         "location": "東京",
-        "bDay": 20200326,
+        "bDay": "20200326",
         "aDay": "中止",
         "artist": "まふまふ、そらる、うらたぬき、となりの坂田、天月、luz、志麻、センラ"
     },
@@ -107,7 +107,7 @@
         "no": 14,
         "name": "浦島坂船 Spring Tour2020",
         "location": "千葉",
-        "bDay": 20200330,
+        "bDay": "20200330",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -115,15 +115,15 @@
         "no": 15,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "愛知",
-        "bDay": 20200330,
-        "aDay": 20200820,
+        "bDay": "20200330",
+        "aDay": "20200820",
         "artist": "luz"
     },
     {
         "no": 16,
         "name": "浦島坂船 Spring Tour2020",
         "location": "千葉",
-        "bDay": 20200331,
+        "bDay": "20200331",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -131,31 +131,31 @@
         "no": 17,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "新潟",
-        "bDay": 20200401,
-        "aDay": 20200910,
+        "bDay": "20200401",
+        "aDay": "20200910",
         "artist": "luz"
     },
     {
         "no": 18,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "東京",
-        "bDay": 20200402,
-        "aDay": 20200824,
+        "bDay": "20200402",
+        "aDay": "20200824",
         "artist": "luz、センラ"
     },
     {
         "no": 19,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "香川",
-        "bDay": 20200404,
-        "aDay": 20200830,
+        "bDay": "20200404",
+        "aDay": "20200830",
         "artist": "luz"
     },
     {
         "no": 20,
         "name": "luz MEMBERS MEETING Vol.4",
         "location": "大阪",
-        "bDay": 20200405,
+        "bDay": "20200405",
         "aDay": "中止or延期",
         "artist": "luz"
     },
@@ -163,7 +163,7 @@
         "no": 21,
         "name": "浦島坂船 Spring Tour2020",
         "location": "山口",
-        "bDay": 20200405,
+        "bDay": "20200405",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -171,7 +171,7 @@
         "no": 22,
         "name": "浦島坂船 Spring Tour2020",
         "location": "岡山",
-        "bDay": 20200406,
+        "bDay": "20200406",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -179,31 +179,31 @@
         "no": 23,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "大阪",
-        "bDay": 20200406,
-        "aDay": 20200805,
+        "bDay": "20200406",
+        "aDay": "20200805",
         "artist": "luz"
     },
     {
         "no": 24,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "福岡",
-        "bDay": 20200407,
-        "aDay": 20200803,
+        "bDay": "20200407",
+        "aDay": "20200803",
         "artist": "luz"
     },
     {
         "no": 25,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "北海道",
-        "bDay": 20200411,
-        "aDay": 20200812,
+        "bDay": "20200411",
+        "aDay": "20200812",
         "artist": "luz"
     },
     {
         "no": 26,
         "name": "浦島坂船 Spring Tour2020",
         "location": "長崎",
-        "bDay": 20200411,
+        "bDay": "20200411",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -211,7 +211,7 @@
         "no": 27,
         "name": "浦島坂船 Spring Tour2020",
         "location": "佐賀",
-        "bDay": 20200412,
+        "bDay": "20200412",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -219,7 +219,7 @@
         "no": 28,
         "name": "浦島坂船 Spring Tour2020",
         "location": "沖縄",
-        "bDay": 20200419,
+        "bDay": "20200419",
         "aDay": "中止",
         "artist": "うらたぬき、となりの坂田、志麻、センラ"
     },
@@ -227,31 +227,31 @@
         "no": 29,
         "name": "天月10th Anniversary Live Final Love&Pop",
         "location": "千葉",
-        "bDay": 20200428,
-        "aDay": 20200830,
+        "bDay": "20200428",
+        "aDay": "20200830",
         "artist": "天月"
     },
     {
         "no": 30,
         "name": "天月10th Anniversary Live Final Rock&Cool",
         "location": "千葉",
-        "bDay": 20200429,
-        "aDay": 20200829,
+        "bDay": "20200429",
+        "aDay": "20200829",
         "artist": "天月"
     },
     {
         "no": 31,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "宮城",
-        "bDay": 20200502,
-        "aDay": 20200810,
+        "bDay": "20200502",
+        "aDay": "20200810",
         "artist": "luz"
     },
     {
         "no": 32,
         "name": "noise -Black and white world-",
         "location": "愛知",
-        "bDay": 20200502,
+        "bDay": "20200502",
         "aDay": "中止or延期",
         "artist": "志麻"
     },
@@ -259,7 +259,7 @@
         "no": 33,
         "name": "noise -Black and white world-",
         "location": "大阪",
-        "bDay": 20200503,
+        "bDay": "20200503",
         "aDay": "中止or延期",
         "artist": "志麻"
     },
@@ -267,7 +267,7 @@
         "no": 34,
         "name": "noise -Black and white world-",
         "location": "福岡",
-        "bDay": 20200505,
+        "bDay": "20200505",
         "aDay": "中止or延期",
         "artist": "志麻"
     },
@@ -275,15 +275,15 @@
         "no": 35,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "広島",
-        "bDay": 20200514,
-        "aDay": 20200831,
+        "bDay": "20200514",
+        "aDay": "20200831",
         "artist": "luz"
     },
     {
         "no": 36,
         "name": "noise -Black and white world-",
         "location": "東京",
-        "bDay": 20200517,
+        "bDay": "20200517",
         "aDay": "中止or延期",
         "artist": "志麻"
     },
@@ -291,8 +291,8 @@
         "no": 37,
         "name": "XYZ TOUR 2020-DJ Style-",
         "location": "静岡",
-        "bDay": 20200522,
-        "aDay": 20200828,
+        "bDay": "20200522",
+        "aDay": "20200828",
         "artist": "luz、センラ"
     }
 ]
