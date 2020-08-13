@@ -1,6 +1,22 @@
 [
     {
         "no": 1,
+        "name": "天月10th Anniversary Live Final Rock&Cool",
+        "location": "千葉",
+        "bDay": "20200829(無観客ライブ)",
+        "aDay": "20200829",
+        "artist": "天月"
+    },
+    {
+        "no": 2,
+        "name": "天月10th Anniversary Live Final Love&Pop",
+        "location": "千葉",
+        "bDay": "20200830",
+        "aDay": "20200830(無観客ライブ)",
+        "artist": "天月"
+    },
+    {
+        "no": 3,
         "name": "noise -Black and white world-",
         "location": "大阪",
         "bDay": "20200503",
@@ -8,7 +24,7 @@
         "artist": "志麻"
     },
     {
-        "no": 2,
+        "no": 4,
         "name": "noise -Black and white world-",
         "location": "東京",
         "bDay": "20200517",
@@ -16,7 +32,7 @@
         "artist": "志麻"
     },
     {
-        "no": 3,
+        "no": 5,
         "name": "noise -Black and white world-",
         "location": "福岡",
         "bDay": "20200505",
@@ -24,7 +40,7 @@
         "artist": "志麻"
     },
     {
-        "no": 4,
+        "no": 6,
         "name": "noise -Black and white world-",
         "location": "愛知",
         "bDay": "20200502",
@@ -32,7 +48,7 @@
         "artist": "志麻"
     },
     {
-        "no": 5,
+        "no": 7,
         "name": "luz MEMBERS MEETING Vol.4",
         "location": "東京",
         "bDay": "20200429",
@@ -40,28 +56,12 @@
         "artist": "luz"
     },
     {
-        "no": 6,
+        "no": 8,
         "name": "luz MEMBERS MEETING Vol.4",
         "location": "大阪",
         "bDay": "20200405",
         "aDay": "20210131",
         "artist": "luz"
-    },
-    {
-        "no": 7,
-        "name": "天月10th Anniversary Live Final Rock&Cool",
-        "location": "千葉",
-        "bDay": "20200829",
-        "aDay": "中止",
-        "artist": "天月"
-    },
-    {
-        "no": 8,
-        "name": "天月10th Anniversary Live Final Love&Pop",
-        "location": "千葉",
-        "bDay": "20200830",
-        "aDay": "中止",
-        "artist": "天月"
     },
     {
         "no": 9,
