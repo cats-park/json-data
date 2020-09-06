@@ -1,54 +1,6 @@
 [
     {
         "no": 1,
-        "name": "天月10th Anniversary Live Final Rock&Cool",
-        "location": "千葉",
-        "bDay": "20200829",
-        "aDay": "8月29日(土)(無観客ライブ)",
-        "artist": "天月"
-    },
-    {
-        "no": 2,
-        "name": "天月10th Anniversary Live Final Love&Pop",
-        "location": "千葉",
-        "bDay": "20200830",
-        "aDay": "8月30日(日)(無観客ライブ)",
-        "artist": "天月"
-    },
-    {
-        "no": 3,
-        "name": "noise -Black and white world-",
-        "location": "大阪",
-        "bDay": "20200503",
-        "aDay": "20201107",
-        "artist": "志麻"
-    },
-    {
-        "no": 4,
-        "name": "noise -Black and white world-",
-        "location": "東京",
-        "bDay": "20200517",
-        "aDay": "20201109",
-        "artist": "志麻"
-    },
-    {
-        "no": 5,
-        "name": "noise -Black and white world-",
-        "location": "福岡",
-        "bDay": "20200505",
-        "aDay": "20201111",
-        "artist": "志麻"
-    },
-    {
-        "no": 6,
-        "name": "noise -Black and white world-",
-        "location": "愛知",
-        "bDay": "20200502",
-        "aDay": "20201122",
-        "artist": "志麻"
-    },
-    {
-        "no": 7,
         "name": "luz MEMBERS MEETING Vol.4",
         "location": "東京",
         "bDay": "20200429",
@@ -56,12 +8,60 @@
         "artist": "luz"
     },
     {
-        "no": 8,
+        "no": 2,
         "name": "luz MEMBERS MEETING Vol.4",
         "location": "大阪",
         "bDay": "20200405",
         "aDay": "20210131",
         "artist": "luz"
+    },
+    {
+        "no": 3,
+        "name": "天月10th Anniversary Live Final Rock&Cool",
+        "location": "千葉",
+        "bDay": "20200829",
+        "aDay": "終了",
+        "artist": "天月"
+    },
+    {
+        "no": 4,
+        "name": "天月10th Anniversary Live Final Love&Pop",
+        "location": "千葉",
+        "bDay": "20200830",
+        "aDay": "終了",
+        "artist": "天月"
+    },
+    {
+        "no": 5,
+        "name": "noise -Black and white world-",
+        "location": "大阪",
+        "bDay": "20200503",
+        "aDay": "中止",
+        "artist": "志麻"
+    },
+    {
+        "no": 6,
+        "name": "noise -Black and white world-",
+        "location": "東京",
+        "bDay": "20200517",
+        "aDay": "中止",
+        "artist": "志麻"
+    },
+    {
+        "no": 7,
+        "name": "noise -Black and white world-",
+        "location": "福岡",
+        "bDay": "20200505",
+        "aDay": "中止",
+        "artist": "志麻"
+    },
+    {
+        "no": 8,
+        "name": "noise -Black and white world-",
+        "location": "愛知",
+        "bDay": "20200502",
+        "aDay": "中止",
+        "artist": "志麻"
     },
     {
         "no": 9,
