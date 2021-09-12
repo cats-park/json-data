@@ -2,8 +2,8 @@
         "no": 1,
         "name": "SHIMA LIVW TOUR 2021 ーre:noise",
         "location": "大阪",
-        "bDay": "20210613",
-        "aDay": "20210805",
+        "bDay": "20210805",
+        "aDay": "終了",
         "artist": "志麻"
     },
     {
@@ -285,5 +285,13 @@
         "bDay": "20200830",
         "aDay": "中止",
         "artist": "luz"
+    },
+    {
+        "no": 37,
+        "name": "浦島坂船 SUMMER TOUR 2021",
+        "location": "千葉",
+        "bDay": "20210920",
+        "aDay": "未定",
+        "artist": "うらたぬき、となりの坂田、志麻、センラ"
     }
 ]
